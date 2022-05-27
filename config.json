@@ -1,0 +1,10 @@
+{
+    "dataset_path": "<PATH_TO_DATASET>",
+    "train_path": "<PATH_TO_TRAIN_DATASET>",
+    "save_model_path": "./models/face_classifier.h5",
+    "img_height": 256,
+    "img_width": 256,
+    "num_classes": 1,
+    "batch_size": 16,
+    "epochs": 20
+}
