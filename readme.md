@@ -1,7 +1,7 @@
 # Face Detection with small MobileNet, Tensorflow.
 Trained a face classification with two labels --> Matin or Not Matin.
 
-<img src="./assets/matin.png"/ width=70% height=70%> <img src="./assets/leo.png"/ width=70% height=70%>
+<img src="./assets/matin.png"/ width=70% height=70%/> <img src="./assets/leo.png"/ width=70% height=70%/>
 
 ## Architecture:
 - The model has two parts a face localization and a face classification.
