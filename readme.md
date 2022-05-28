@@ -8,7 +8,7 @@ Trained a face classification with two labels --> Matin or Not Matin.
 
 - For classification the top layer of mobilenet has been removed and used a global average pooling 2D and a linear layer instead for classification purpose.
 
-For localization used open-cv cascade classifier.
+- For localization used open-cv cascade classifier.
 
 ## Train the model:
 For training the model:
